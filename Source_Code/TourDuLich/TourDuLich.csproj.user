@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\lenovo\OneDrive\Desktop\TourDuLich\Properties\PublishProfiles\ClickOnceProfile21.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="DangKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DanhGia_For_KH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DatTour_ForKH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DiemDen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoiMK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GiaoDienChoKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GiaoDien_For_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GiaoDien_For_HDV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HDV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KHACHHANG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LichSuDanTour.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhapThongTinKH_KhiDangKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhanCongHDV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLDatTour.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLHOADON.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLyTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLy_Tour_Va_LichTrinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThanhToanHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThemSuaHDV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThemTK_HDV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThongKe_DoanhThu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TKDanhGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="XemKH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

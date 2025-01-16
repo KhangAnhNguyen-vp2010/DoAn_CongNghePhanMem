@@ -1,0 +1,924 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\quanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:quanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\quanly_tour_va_lichtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:quanly_tour_va_lichtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\quanly_tour_va_lichtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:quanly_tour_va_lichtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\phanconghdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:phanconghdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\thongke_doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:thongke_doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\thongke_doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:thongke_doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\qldattour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:qldattour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\qlhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:qlhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\qlhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:qlhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\tkdanhgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:tkdanhgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\tkdanhgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:tkdanhgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\diemden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:diemden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\giaodien_for_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:giaodien_for_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\giaodien_for_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:giaodien_for_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\giaodien_for_hdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:giaodien_for_hdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\thanhtoanhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:thanhtoanhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\thanhtoanhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:thanhtoanhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\danhgia_for_kh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:danhgia_for_kh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\danhgia_for_kh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:danhgia_for_kh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\dattour_forkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:dattour_forkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\giaodienchokhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:giaodienchokhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\dattour_forkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:dattour_forkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\doimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:doimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\doimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:doimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\tourdulich.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:tourdulich.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\baocaodoanhthu.frx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:baocaodoanhthu.frx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\themsuahdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:themsuahdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\xemkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:xemkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\xemkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:xemkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\themtk_hdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:themtk_hdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\themtk_hdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:themtk_hdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\themsuahdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:themsuahdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\quanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:quanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\qldattour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:qldattour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\phanconghdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:phanconghdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\nhapthongtinkh_khidangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:nhapthongtinkh_khidangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\lichsudantour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:lichsudantour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\lichsudantour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:lichsudantour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\hdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:hdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\hdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:hdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\giaodien_for_hdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:giaodien_for_hdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\diemden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:diemden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\nhapthongtinkh_khidangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:nhapthongtinkh_khidangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\giaodienchokhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:giaodienchokhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\hdv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:hdv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|c:\\users\\lenovo\\onedrive\\desktop\\tourdulich\\giaodien_for_hdv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF397D4-F274-40C5-B944-0B388C3EBE87}|TourDuLich.csproj|solutionrelative:giaodien_for_hdv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KetNoi.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\KetNoi.cs",
+              "RelativeDocumentMoniker": "KetNoi.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\KetNoi.cs",
+              "RelativeToolTip": "KetNoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:07:50.264Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuanLyTaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\QuanLyTaiKhoan.cs",
+              "RelativeDocumentMoniker": "QuanLyTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\QuanLyTaiKhoan.cs",
+              "RelativeToolTip": "QuanLyTaiKhoan.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAcwFAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:53:12.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\DangNhap.cs",
+              "RelativeDocumentMoniker": "DangNhap.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\DangNhap.cs [Design]",
+              "RelativeToolTip": "DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:48:14.482Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\DangNhap.cs",
+              "RelativeDocumentMoniker": "DangNhap.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\DangNhap.cs",
+              "RelativeToolTip": "DangNhap.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAmwKsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:48:17.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuanLy_Tour_Va_LichTrinh.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\QuanLy_Tour_Va_LichTrinh.cs",
+              "RelativeDocumentMoniker": "QuanLy_Tour_Va_LichTrinh.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\QuanLy_Tour_Va_LichTrinh.cs",
+              "RelativeToolTip": "QuanLy_Tour_Va_LichTrinh.cs",
+              "ViewState": "AgIAAJwBAAAAAAAAAAAAwK8BAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:59:09.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuanLy_Tour_Va_LichTrinh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\QuanLy_Tour_Va_LichTrinh.cs",
+              "RelativeDocumentMoniker": "QuanLy_Tour_Va_LichTrinh.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\QuanLy_Tour_Va_LichTrinh.cs [Design]",
+              "RelativeToolTip": "QuanLy_Tour_Va_LichTrinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:59:06.245Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PhanCongHDV.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\PhanCongHDV.cs",
+              "RelativeDocumentMoniker": "PhanCongHDV.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\PhanCongHDV.cs",
+              "RelativeToolTip": "PhanCongHDV.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwCkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:38:38.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TKDanhGia.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\TKDanhGia.cs",
+              "RelativeDocumentMoniker": "TKDanhGia.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\TKDanhGia.cs",
+              "RelativeToolTip": "TKDanhGia.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:19:16.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThongKe_DoanhThu.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\ThongKe_DoanhThu.cs",
+              "RelativeDocumentMoniker": "ThongKe_DoanhThu.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\ThongKe_DoanhThu.cs",
+              "RelativeToolTip": "ThongKe_DoanhThu.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T01:32:18.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QLHOADON.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\QLHOADON.cs",
+              "RelativeDocumentMoniker": "QLHOADON.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\QLHOADON.cs [Design]",
+              "RelativeToolTip": "QLHOADON.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:54:50.485Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TKDanhGia.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\TKDanhGia.cs",
+              "RelativeDocumentMoniker": "TKDanhGia.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\TKDanhGia.cs [Design]",
+              "RelativeToolTip": "TKDanhGia.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:19:10.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QLDatTour.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\QLDatTour.cs",
+              "RelativeDocumentMoniker": "QLDatTour.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\QLDatTour.cs",
+              "RelativeToolTip": "QLDatTour.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwCMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:00:17.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ThongKe_DoanhThu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\ThongKe_DoanhThu.cs",
+              "RelativeDocumentMoniker": "ThongKe_DoanhThu.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\ThongKe_DoanhThu.cs [Design]",
+              "RelativeToolTip": "ThongKe_DoanhThu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T01:31:04.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QLHOADON.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\QLHOADON.cs",
+              "RelativeDocumentMoniker": "QLHOADON.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\QLHOADON.cs",
+              "RelativeToolTip": "QLHOADON.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwCUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:54:54.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DiemDen.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\DiemDen.cs",
+              "RelativeDocumentMoniker": "DiemDen.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\DiemDen.cs",
+              "RelativeToolTip": "DiemDen.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA/wCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:18:28.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GiaoDien_For_Admin.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\GiaoDien_For_Admin.cs",
+              "RelativeDocumentMoniker": "GiaoDien_For_Admin.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\GiaoDien_For_Admin.cs",
+              "RelativeToolTip": "GiaoDien_For_Admin.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:54:37.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GiaoDien_For_Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\GiaoDien_For_Admin.cs",
+              "RelativeDocumentMoniker": "GiaoDien_For_Admin.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\GiaoDien_For_Admin.cs [Design]",
+              "RelativeToolTip": "GiaoDien_For_Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:52:04.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GiaoDien_For_HDV.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\GiaoDien_For_HDV.cs",
+              "RelativeDocumentMoniker": "GiaoDien_For_HDV.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\GiaoDien_For_HDV.cs",
+              "RelativeToolTip": "GiaoDien_For_HDV.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:04:51.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ThanhToanHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\ThanhToanHoaDon.cs",
+              "RelativeDocumentMoniker": "ThanhToanHoaDon.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\ThanhToanHoaDon.cs",
+              "RelativeToolTip": "ThanhToanHoaDon.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:27:15.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ThanhToanHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\ThanhToanHoaDon.cs",
+              "RelativeDocumentMoniker": "ThanhToanHoaDon.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\ThanhToanHoaDon.cs [Design]",
+              "RelativeToolTip": "ThanhToanHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:27:13.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DanhGia_For_KH.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\DanhGia_For_KH.cs",
+              "RelativeDocumentMoniker": "DanhGia_For_KH.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\DanhGia_For_KH.cs",
+              "RelativeToolTip": "DanhGia_For_KH.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T15:24:14.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DanhGia_For_KH.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\DanhGia_For_KH.cs",
+              "RelativeDocumentMoniker": "DanhGia_For_KH.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\DanhGia_For_KH.cs [Design]",
+              "RelativeToolTip": "DanhGia_For_KH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:48:56.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DatTour_ForKH.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\DatTour_ForKH.cs",
+              "RelativeDocumentMoniker": "DatTour_ForKH.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\DatTour_ForKH.cs",
+              "RelativeToolTip": "DatTour_ForKH.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:22:29.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DatTour_ForKH.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\DatTour_ForKH.cs",
+              "RelativeDocumentMoniker": "DatTour_ForKH.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\DatTour_ForKH.cs [Design]",
+              "RelativeToolTip": "DatTour_ForKH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:26:50.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DoiMK.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\DoiMK.cs",
+              "RelativeDocumentMoniker": "DoiMK.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\DoiMK.cs [Design]",
+              "RelativeToolTip": "DoiMK.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:02:58.316Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TourDuLich.csproj",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\TourDuLich.csproj",
+              "RelativeDocumentMoniker": "TourDuLich.csproj",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\TourDuLich.csproj",
+              "RelativeToolTip": "TourDuLich.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-22T14:43:31.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:20:15.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GiaoDienChoKhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\GiaoDienChoKhachHang.cs",
+              "RelativeDocumentMoniker": "GiaoDienChoKhachHang.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\GiaoDienChoKhachHang.cs",
+              "RelativeToolTip": "GiaoDienChoKhachHang.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:09:36.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DoiMK.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\DoiMK.cs",
+              "RelativeDocumentMoniker": "DoiMK.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\DoiMK.cs",
+              "RelativeToolTip": "DoiMK.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAGEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T04:57:23.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DangKy.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\DangKy.cs",
+              "RelativeDocumentMoniker": "DangKy.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\DangKy.cs [Design]",
+              "RelativeToolTip": "DangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:40:18.233Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAHwXAAAAAAAAAAAEwO4XAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-25T07:29:13.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAACXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-18T12:28:30.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BaoCaoDoanhThu.frx",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\BaoCaoDoanhThu.frx",
+              "RelativeDocumentMoniker": "BaoCaoDoanhThu.frx",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\BaoCaoDoanhThu.frx",
+              "RelativeToolTip": "BaoCaoDoanhThu.frx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-22T14:47:07.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DangKy.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\DangKy.cs",
+              "RelativeDocumentMoniker": "DangKy.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\DangKy.cs",
+              "RelativeToolTip": "DangKy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:26:40.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ThemSuaHDV.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\ThemSuaHDV.cs",
+              "RelativeDocumentMoniker": "ThemSuaHDV.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\ThemSuaHDV.cs",
+              "RelativeToolTip": "ThemSuaHDV.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:00:24.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "XemKH.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\XemKH.cs",
+              "RelativeDocumentMoniker": "XemKH.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\XemKH.cs",
+              "RelativeToolTip": "XemKH.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:33:45.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "XemKH.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\XemKH.cs",
+              "RelativeDocumentMoniker": "XemKH.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\XemKH.cs [Design]",
+              "RelativeToolTip": "XemKH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T15:26:12.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ThemTK_HDV.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\ThemTK_HDV.cs",
+              "RelativeDocumentMoniker": "ThemTK_HDV.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\ThemTK_HDV.cs",
+              "RelativeToolTip": "ThemTK_HDV.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:33:57.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ThemTK_HDV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\ThemTK_HDV.cs",
+              "RelativeDocumentMoniker": "ThemTK_HDV.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\ThemTK_HDV.cs [Design]",
+              "RelativeToolTip": "ThemTK_HDV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:26:36.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ThemSuaHDV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\ThemSuaHDV.cs",
+              "RelativeDocumentMoniker": "ThemSuaHDV.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\ThemSuaHDV.cs [Design]",
+              "RelativeToolTip": "ThemSuaHDV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:00:22.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "QuanLyTaiKhoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\QuanLyTaiKhoan.cs",
+              "RelativeDocumentMoniker": "QuanLyTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\QuanLyTaiKhoan.cs [Design]",
+              "RelativeToolTip": "QuanLyTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:48:00.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "QLDatTour.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\QLDatTour.cs",
+              "RelativeDocumentMoniker": "QLDatTour.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\QLDatTour.cs [Design]",
+              "RelativeToolTip": "QLDatTour.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:58:43.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PhanCongHDV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\PhanCongHDV.cs",
+              "RelativeDocumentMoniker": "PhanCongHDV.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\PhanCongHDV.cs [Design]",
+              "RelativeToolTip": "PhanCongHDV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:38:36.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "NhapThongTinKH_KhiDangKy.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\NhapThongTinKH_KhiDangKy.cs",
+              "RelativeDocumentMoniker": "NhapThongTinKH_KhiDangKy.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\NhapThongTinKH_KhiDangKy.cs [Design]",
+              "RelativeToolTip": "NhapThongTinKH_KhiDangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:46:39.672Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LichSuDanTour.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\LichSuDanTour.cs",
+              "RelativeDocumentMoniker": "LichSuDanTour.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\LichSuDanTour.cs",
+              "RelativeToolTip": "LichSuDanTour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T04:58:27.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LichSuDanTour.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\LichSuDanTour.cs",
+              "RelativeDocumentMoniker": "LichSuDanTour.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\LichSuDanTour.cs [Design]",
+              "RelativeToolTip": "LichSuDanTour.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:51:47.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "KHACHHANG.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\KHACHHANG.cs",
+              "RelativeDocumentMoniker": "KHACHHANG.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\KHACHHANG.cs",
+              "RelativeToolTip": "KHACHHANG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:44:07.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "KHACHHANG.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\KHACHHANG.cs",
+              "RelativeDocumentMoniker": "KHACHHANG.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\KHACHHANG.cs [Design]",
+              "RelativeToolTip": "KHACHHANG.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:33:38.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "HDV.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\HDV.cs",
+              "RelativeDocumentMoniker": "HDV.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\HDV.cs",
+              "RelativeToolTip": "HDV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:59:50.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "HDV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\HDV.cs",
+              "RelativeDocumentMoniker": "HDV.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\HDV.cs [Design]",
+              "RelativeToolTip": "HDV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T05:50:49.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GiaoDien_For_HDV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\GiaoDien_For_HDV.cs",
+              "RelativeDocumentMoniker": "GiaoDien_For_HDV.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\GiaoDien_For_HDV.cs [Design]",
+              "RelativeToolTip": "GiaoDien_For_HDV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T15:24:45.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DiemDen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\DiemDen.cs",
+              "RelativeDocumentMoniker": "DiemDen.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\DiemDen.cs [Design]",
+              "RelativeToolTip": "DiemDen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:18:25.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "NhapThongTinKH_KhiDangKy.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\NhapThongTinKH_KhiDangKy.cs",
+              "RelativeDocumentMoniker": "NhapThongTinKH_KhiDangKy.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\NhapThongTinKH_KhiDangKy.cs",
+              "RelativeToolTip": "NhapThongTinKH_KhiDangKy.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAswKAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:16:44.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "GiaoDienChoKhachHang.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\GiaoDienChoKhachHang.Designer.cs",
+              "RelativeDocumentMoniker": "GiaoDienChoKhachHang.Designer.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\GiaoDienChoKhachHang.Designer.cs",
+              "RelativeToolTip": "GiaoDienChoKhachHang.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAjwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:53:22.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "HDV.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\HDV.Designer.cs",
+              "RelativeDocumentMoniker": "HDV.Designer.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\HDV.Designer.cs",
+              "RelativeToolTip": "HDV.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T05:50:48.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "GiaoDien_For_HDV.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\GiaoDien_For_HDV.Designer.cs",
+              "RelativeDocumentMoniker": "GiaoDien_For_HDV.Designer.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Desktop\\TourDuLich\\GiaoDien_For_HDV.Designer.cs",
+              "RelativeToolTip": "GiaoDien_For_HDV.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:05:34.002Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="12/22/2024 21:44:00" ReportInfo.Modified="12/24/2024 20:23:53" ReportInfo.CreatorVersion="2025.1.0.0">
+  <Dictionary>
+    <MsSqlDataConnection Name="Connection" ConnectionString="rijcmlqzP/32u1QtzIsUJqKG+CmmsJrE9cQXkWpH1pt7+ppEGX10Oq9y8ptdMYZzKK5KuUIHVqXA4sfl3IhOY2uUiXbqYjyttS/ZrM4CfXWAaxwg0wPGr87UecKSkz7m0Wrt7+qXknchspRkptwxnXTlo6ICcnPPaYmtfJyM4pyn1DFp0HE7kDIxN6/WeR5odMsafsH8ZcvbwHSNiuo1xdOOvlOPQ==">
+      <ProcedureDataSource Name="BAOCAO_DOANHTHU" DataType="System.Int32" Enabled="true" TableName="BAOCAO_DOANHTHU" SelectCommand="BAOCAO_DOANHTHU">
+        <Column Name="MA_HD" DataType="System.String"/>
+        <Column Name="NGAY_LAP" DataType="System.DateTime"/>
+        <Column Name="MA_KH" DataType="System.String"/>
+        <Column Name="TEN_KH" DataType="System.String"/>
+        <Column Name="SDT" DataType="System.String"/>
+        <Column Name="TONGTIEN" DataType="System.Decimal"/>
+        <ProcedureParameter Name="@NAM" DataType="8" DefaultValue="2024" Direction="Input"/>
+      </ProcedureDataSource>
+    </MsSqlDataConnection>
+    <Parameter Name="Parameter_nam" DataType="System.String" AsString=""/>
+    <Parameter Name="Parameter_date" DataType="System.String" AsString=""/>
+    <Parameter Name="Parameter_sl" DataType="System.String" AsString=""/>
+  </Dictionary>
+  <ReportPage Name="Page1" Guides="718.2" Watermark.Font="Arial, 60pt">
+    <ReportTitleBand Name="ReportTitle1" Width="718.2" Height="207.9">
+      <TextObject Name="Text15" Left="9.45" Top="94.5" Width="689.85" Height="47.25" Text="[Parameter_nam]" HorzAlign="Center" Font="Times New Roman, 20pt, style=Bold"/>
+      <TextObject Name="Text16" Left="529.2" Top="160.65" Width="170.1" Height="37.8" Text="[Parameter_date]" HorzAlign="Center" Font="Times New Roman, 14pt"/>
+      <TextObject Name="Text17" Left="-37.8" Top="160.65" Width="207.9" Height="47.25" Text="[Parameter_sl]" HorzAlign="Center" Font="Times New Roman, 14pt"/>
+      <TextObject Name="Text18" Left="245.7" Top="37.8" Width="217.35" Height="28.35" Text="BÁO CÁO" HorzAlign="Center" Font="Times New Roman, 20pt, style=Bold"/>
+    </ReportTitleBand>
+    <PageHeaderBand Name="PageHeader1" Top="211.9" Width="718.2" Height="28.35">
+      <TextObject Name="Text1" Left="9.45" Width="94.5" Height="18.9" Text="Mã Hoá Đơn" Font="Arial, 10pt"/>
+      <TextObject Name="Text2" Left="122.85" Width="94.5" Height="18.9" Text="Ngày Lập" Font="Arial, 10pt"/>
+      <TextObject Name="Text3" Left="236.25" Width="132.3" Height="18.9" Text="Mã Khách Hàng" Font="Arial, 10pt"/>
+      <TextObject Name="Text4" Left="359.1" Width="122.85" Height="18.9" Text="Tên Khách Hàng" Font="Arial, 10pt"/>
+      <TextObject Name="Text5" Left="472.5" Width="113.4" Height="18.9" Text="Số Điện Thoại" Font="Arial, 10pt"/>
+      <TextObject Name="Text6" Left="604.8" Width="94.5" Height="18.9" Text="Tổng Tiền" Font="Arial, 10pt"/>
+    </PageHeaderBand>
+    <DataBand Name="Data1" Top="244.25" Width="718.2" Height="37.8" DataSource="BAOCAO_DOANHTHU">
+      <TextObject Name="Text19" Left="9.45" Top="9.45" Width="94.5" Height="18.9" Text="[BAOCAO_DOANHTHU.MA_HD]" Font="Arial, 10pt"/>
+      <TextObject Name="Text20" Left="122.85" Top="9.45" Width="94.5" Height="18.9" Text="[BAOCAO_DOANHTHU.NGAY_LAP]" Format="Date" Format.Format="d" Font="Arial, 10pt"/>
+      <TextObject Name="Text21" Left="236.25" Top="9.45" Width="94.5" Height="18.9" Text="[BAOCAO_DOANHTHU.MA_KH]" Font="Arial, 10pt"/>
+      <TextObject Name="Text22" Left="359.1" Top="9.45" Width="94.5" Height="18.9" Text="[BAOCAO_DOANHTHU.TEN_KH]" Font="Arial, 10pt"/>
+      <TextObject Name="Text23" Left="472.5" Top="9.45" Width="94.5" Height="18.9" Text="[BAOCAO_DOANHTHU.SDT]" Font="Arial, 10pt"/>
+      <TextObject Name="Text24" Left="604.8" Top="9.45" Width="226.8" Height="18.9" Text="[ToString(ToInt32([BAOCAO_DOANHTHU.TONGTIEN]))] VNĐ" Format="Currency" Format.UseLocale="true" Format.DecimalDigits="2" WordWrap="false" Font="Arial, 10pt" Trimming="EllipsisCharacter"/>
+    </DataBand>
+    <PageFooterBand Name="PageFooter1" Top="286.05" Width="718.2" Height="103.95" Guides="85.05"/>
+  </ReportPage>
+</Report>
