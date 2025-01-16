@@ -38,9 +38,9 @@ Tài khoản dành cho nhân viên:
 
 -Lưu ý ứng dụng chỉ tích hợp được với:
 
-+ Pcale: 100% hoặc 150%
++ Scale: 100% hoặc 150%
   
-+ Độ phân giải (displat resolution): 1920x1080
++ Độ phân giải (display resolution): 1920x1080
 
 ![image](https://github.com/user-attachments/assets/02b46333-0e27-4d48-a703-4a569f78f34d)
 
